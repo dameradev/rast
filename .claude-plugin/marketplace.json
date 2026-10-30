@@ -1,0 +1,24 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "rast",
+  "description": "Rast for Claude: manage your Rast home-builder website from Claude Code.",
+  "owner": {
+    "name": "Rast",
+    "url": "https://rast.is"
+  },
+  "plugins": [
+    {
+      "name": "rast",
+      "description": "Run your home-builder website on Rast from Claude: pages, Design Studio sections, photos, floor plans and available homes, buyer inquiries, forms, bookings, site settings and your domain. Sign in with your Rast portal login.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Rast",
+        "url": "https://rast.is"
+      },
+      "source": "./plugins/rast",
+      "homepage": "https://rast.is/portal/help/claude",
+      "category": "productivity",
+      "keywords": ["rast", "home builders", "website", "cms", "floor plans"]
+    }
+  ]
+}

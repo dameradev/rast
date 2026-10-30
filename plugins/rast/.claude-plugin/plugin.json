@@ -1,0 +1,12 @@
+{
+  "name": "rast",
+  "version": "1.0.0",
+  "description": "Run your home-builder website on Rast from Claude: edit pages and Design Studio sections, add photos, keep floor plans and available homes current, answer buyer inquiries, and manage forms, bookings, site settings and your domain. Sign in with your Rast portal login; Claude can only do what your account allows.",
+  "author": {
+    "name": "Rast",
+    "url": "https://rast.is"
+  },
+  "homepage": "https://rast.is/portal/help/claude",
+  "license": "MIT",
+  "keywords": ["rast", "home builders", "custom home builders", "website", "cms", "floor plans", "pages"]
+}

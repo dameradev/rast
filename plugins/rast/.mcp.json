@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "rast": {
+      "type": "http",
+      "url": "https://rast.is/api/mcp"
+    }
+  }
+}
